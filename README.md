@@ -1,6 +1,6 @@
 ### Formal Language Theory
 
-[![Build Status](https://travis-ci.org/github/Duletov/Hello_world/pull_requests)](https://travis-ci.org/github/Duletov/Hello_world/pull_requests)
+[![Build Status](https://travis-ci.com/Duletov/Hello_world.svg?branch=master)](https://travis-ci.com/Duletov/Hello_world)
 
 #### Installation & Running tests
 
